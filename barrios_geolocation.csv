@@ -68,7 +68,7 @@ Barrios,geopy_lat,geopy_lon
 "Constitución, Capital Federal, Argentina",-34.6282576,-58.3805698
 "Villa Urquiza, Capital Federal, Argentina",-34.5732414,-58.4914785
 "Viedma, Río Negro, Argentina",-40.8085638,-62.9946592
-"Merlo, San Luis, Argentina",-32.3429364,-65.0138888
+"Merlo, San Luis, Argentina",-32.342558,-65.0136903
 "Merlo, Buenos Aires, Argentina",-34.6604988,-58.7321695
 "José C Paz, Buenos Aires, Argentina",-34.511906,-58.7776777
 "Saavedra, Capital Federal, Argentina",-34.5525291,-58.4862759
@@ -126,7 +126,7 @@ Barrios,geopy_lat,geopy_lon
 "Tanti, Córdoba, Argentina",-31.3547972,-64.592479
 "Bella Italia, Santa Fe, Argentina",-31.2824366,-61.41188
 "Esteban Echeverría, Buenos Aires, Argentina",-34.7416314,-58.5940622
-"San Cayetano, Buenos Aires, Argentina",-38.697439,-62.2820764485942
+"San Cayetano, Buenos Aires, Argentina",-37.9795098,-57.5903578
 "Yerba Buena, Tucumán, Argentina",-26.80417595,-65.2994606835357
 "Nueva Atlantis, Buenos Aires, Argentina",-36.761387,-56.6819583681787
 "Santa Rosa, La Pampa, Argentina",-22.6481431,-65.842706
@@ -331,7 +331,7 @@ Barrios,geopy_lat,geopy_lon
 "Renca, San Luis, Argentina",-32.7711731,-65.3659338785353
 "La Punilla, San Luis, Argentina",-33.1426991,-65.0852733
 "Salsipuedes, Córdoba, Argentina",-31.1364074,-64.2965681
-"Agua Blanca, Catamarca, Argentina",-24.2274292,-66.9171941
+"Agua Blanca, Catamarca, Argentina",-24.2276444,-66.9171565
 "La Punta, San Luis, Argentina",-33.1836028,-66.3126953
 "El Volcán, San Luis, Argentina",-33.2512561,-66.1779243
 "María Juana, Santa Fe, Argentina",-31.6755638,-61.7516598
@@ -341,7 +341,7 @@ Barrios,geopy_lat,geopy_lon
 "San Justo, Santa Fe, Argentina",-30.7890512,-60.5930565
 "Catamarca, Catamarca, Argentina",-28.4688963,-65.7790753
 "San Carlos Centro, Santa Fe, Argentina",-31.7265884,-61.090777
-"Jesús María, Córdoba, Argentina",-31.4133576,-64.1469007
+"Jesús María, Córdoba, Argentina",-30.9764132,-64.0957082
 "Desvío Arijón, Santa Fe, Argentina",-31.8713225,-60.8898962
 "El Sauce, Mendoza, Argentina",-32.876256,68.752605
 "San Javier, Santa Fe, Argentina",-32.9049712,-60.9163962
@@ -404,7 +404,7 @@ Barrios,geopy_lat,geopy_lon
 "Avellaneda, Santa Fe, Argentina",-29.118311,-59.6552098
 "El Dorado, Misiones, Argentina",-27.1976216,-54.981952
 "Oro Verde, Entre Ríos, Argentina",-31.8254963,-60.5165484
-"Río De Los Sauces, Córdoba, Argentina",-31.9190857,-65.1321929
+"Río De Los Sauces, Córdoba, Argentina",-31.9130048,-65.1128181
 "Chacras De Coria, Mendoza, Argentina",-32.9863466,-68.8821824
 "Sauce Viejo, Santa Fe, Argentina",-31.7710276,-60.8372302
 "Camet, Buenos Aires, Argentina",-37.889829,-57.6041166
@@ -414,7 +414,7 @@ Barrios,geopy_lat,geopy_lon
 "Los Hornillos, Córdoba, Argentina",-31.8991206,-64.9839543062122
 "Banda Del Río Salí, Tucumán, Argentina",-26.8399635,-65.1620573
 "Navarro, Buenos Aires, Argentina",-35.0058641,-59.2779545
-"La Pampa, La Pampa, Argentina",-35.4249098,-63.9154968
+"La Pampa, La Pampa, Argentina",-30.9338849,-64.2799926
 "Tancacha, Córdoba, Argentina",-31.4317783,-64.1276496
 "Tierra Del Fuego, Tierra Del Fuego, Argentina",-53.8904638,-68.348598
 "Oliveros, Santa Fe, Argentina",-32.5764738,-60.85222
@@ -552,7 +552,7 @@ Barrios,geopy_lat,geopy_lon
 "San Esteban, Córdoba, Argentina",-46.4609844,-68.1825854
 "Balnearia, Córdoba, Argentina",-31.4855572,-64.211542
 "Marull, Córdoba, Argentina",-30.9945073,-62.8247511
-"Despeñaderos, Córdoba, Argentina",-31.4643976,-64.2364812
+"Despeñaderos, Córdoba, Argentina",-31.4643975,-64.2351582
 "Villa Parque Santa Ana, Córdoba, Argentina",-31.5915615,-64.3532881
 "Villa Ciudad De América, Córdoba, Argentina",-31.7950614,-64.5147753
 "Santa Catalina, Córdoba, Argentina",-30.8714289,-64.2351901
